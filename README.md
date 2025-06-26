@@ -5,9 +5,13 @@
 -> The dataset allows exploration of patterns in viewership based on various attributes like :-
 
 content type
+
 release season
+
 language
+
 release day
+
 -> The viewership data, represented in hours viewed, serves as a proxy for the popularity and audience engagement of each title.
 
 # Problem Statement
