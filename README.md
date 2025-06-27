@@ -16,3 +16,5 @@ release day
 
 # Problem Statement
 -> The goal is to analyze Netflix's content strategy to understand how various factors like content type, language, release season, and timing affect viewership patterns. By identifying the best-performing content and the timing of its release, the aim is to uncover insights into how Netflix maximizes audience engagement throughout the year.
+
+## DISCLAIMER: Plotly images are not supported on git-hub , So images of data anlaysis are displayed in the png format above.
